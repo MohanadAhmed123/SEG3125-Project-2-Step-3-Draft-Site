@@ -1,0 +1,10 @@
+//custom variables
+$primary: #E48125;
+$info: #07AEB7;
+$secondary: #666666;
+$success: #2B998E;
+$warning: #CC6600;
+$list-group-border-color: $primary;
+
+//import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap';
